@@ -1,0 +1,5 @@
+Q : What is the mathematical term for a one-to-one correspondence?
+
+> Copy and paste the question into Google to search
+
+A : bijection

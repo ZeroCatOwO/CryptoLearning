@@ -1,0 +1,5 @@
+Q : What is the name for the best single-key attack against AES?
+
+> Copy and paste the question into Google to search
+
+A : Biclique attack

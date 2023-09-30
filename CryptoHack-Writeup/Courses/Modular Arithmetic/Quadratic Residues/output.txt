@@ -1,0 +1,2 @@
+Quadratic_Residues: 6,square root: 8
+Quadratic_Residues: 6,square root: 21
